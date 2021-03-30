@@ -1,5 +1,7 @@
 # user_test
 
+## Make sure you running mongodb
+
 ## How to start:
 
 `npm install`
